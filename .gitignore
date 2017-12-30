@@ -1,0 +1,11 @@
+# MDK-ARM Junk Files
+*.uvguix*
+*.ugoptx*
+EventRecorderStub.scvd
+**/MDK-ARM/f3_gfx/*
+*.lst
+
+# CubeMX Generated/imported files
+mx.scratch
+f3_gfx/Drivers/*
+f3_gfx/Middlewares/*
